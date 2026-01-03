@@ -1,0 +1,6 @@
+[submodule "wasmbox"]
+	path = wasmbox
+	url = https://github.com/ubc-cirrus-lab/WasmBooth.git
+[submodule "resource-aware-serving"]
+	path = resource-aware-serving
+	url = https://github.com/ubc-cirrus-lab/resource-aware-serving.git
