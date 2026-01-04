@@ -15,7 +15,7 @@ Both components are included as git submodules and can be developed and evaluate
   WebAssembly runtime with CPU and memory isolation support.
 
 - **Resource-Aware Serving (Knative-based)**  
-  [https://github.com/ubc-cirrus-lab/resource-aware-serving](https://github.com/ubc-cirrus-lab/resource-aware-serving)
+  [https://github.com/ubc-cirrus-lab/resource-aware-knative-serving](https://github.com/ubc-cirrus-lab/resource-aware-knative-serving)
   
   A fork of Knative Serving extended with resource-aware scheduling, serving logic, and metrics collection.
 
