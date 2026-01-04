@@ -25,7 +25,21 @@ Both components are included as git submodules and can be developed and evaluate
 ## Setup Notes
 
 - Although WasmBox can operate independently of Knative, to reuse the experimental setup from our evaluation, we recommend installing [resource-aware-knative-serving](https://github.com/ubc-cirrus-lab/resource-aware-knative-serving). Detailed instructions are provided in the corresponding documentation.
-- 
+
+## WasmBox Requirements
+To build and run WasmBox, you will need:
+
+- A tool for building container images (e.g., Docker)
+
+- A container runtime or orchestration platform to run WasmBox, such as:
+
+    - Kubernetes (tested with v1.27 – v1.30), or
+    - Kubernetes (tested with v1.27 – v1.30) + Knative (tested with v1.15.2), or
+    - A standalone container runtime (e.g., containerd, Docker)
+
+- kubectl (required only when deploying to Kubernetes-based platforms)
+
+
 ## Getting Started
 
 Clone this repository **with submodules**:
