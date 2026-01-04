@@ -1,3 +1,6 @@
+
+Mohammadamin Baqershahi, Changyuan Lin, Visal Saosuo, Paul Chen, and Mohammad Shahrad, "Hierarchical Integration of WebAssembly in Serverless for Efficiency and Interoperability", The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26).
+
 # wasabi (Integrated Wasm Serving Stack)
 
 This repository integrates two components into a single experimental stack for resource-efficient serverless WebAssembly serving:
