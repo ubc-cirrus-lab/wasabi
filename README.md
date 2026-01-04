@@ -10,7 +10,7 @@ Both components are included as git submodules and can be developed and evaluate
 ## Repositories
 
 - **WasmBox**  
-  [https://github.com/ubc-cirrus-lab/WasmBooth](https://github.com/ubc-cirrus-lab/WasmBooth)
+  [https://github.com/ubc-cirrus-lab/WasmBooth](https://github.com/ubc-cirrus-lab/WasmBox)
   
   WebAssembly runtime with CPU and memory isolation support.
 
