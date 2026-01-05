@@ -1,4 +1,0 @@
-[submodule "wasmbox"]
-	path = wasmbox
-	url = https://github.com/ubc-cirrus-lab/WasmBooth.git
-	branch = main
