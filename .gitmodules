@@ -2,7 +2,3 @@
 	path = wasmbox
 	url = https://github.com/ubc-cirrus-lab/WasmBooth.git
 	branch = main
-[submodule "resource-aware-serving"]
-	path = resource-aware-serving
-	url = https://github.com/ubc-cirrus-lab/resource-aware-serving.git
-	branch = main
