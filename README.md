@@ -56,11 +56,10 @@ git submodule update --init --recursive
 
 ### resource-aware-knative-serving Setup and Usage
 
-#### Setup
+#### Requirements and Installation
 
-##### Requirements
-
-##### Install
+For dependencies and installation instructions, please refer to the official Knative Serving documentation for v1.15.2.
+Our implementation is based on Knative Serving v1.15.2, and the standard setup process applies unless noted otherwise in this repository.
 
 #### Implemented Knative Features
 We design and implement additional features for Knative Serving to provide architectural support for WASM superpods.
