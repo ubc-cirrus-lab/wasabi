@@ -255,3 +255,7 @@ totalSlots =  QueueDepthUnits + MaxConcurrencyUnits
 ```
 
 ###### Throttler
+
+### HashApps List
+The HashApps list is provided in /apps/hashapp_list.csv.
+The main experiments presented in the paper are conducted on a 2-hour window, using the first 2 hours of the original two-week trace.
